@@ -1,0 +1,1 @@
+export const uriImage = 'https://thumbs.dreamstime.com/b/illusion-electro-skull-hand-drawn-style-electro-skull-99872965.jpg';
